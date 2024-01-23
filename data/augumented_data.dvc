@@ -1,0 +1,5 @@
+outs:
+- md5: c0776fa088e7aa408504374288f20c99.dir
+  size: 194860806
+  nfiles: 10297
+  path: augumented_data
