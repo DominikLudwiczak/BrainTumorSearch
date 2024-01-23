@@ -1,4 +1,4 @@
 [core]
     remote = repozytorium
 ['remote "repozytorium"']
-    url = /Users/dominikludwiczak/dvcrepo
+    url = ../dvcrepo
