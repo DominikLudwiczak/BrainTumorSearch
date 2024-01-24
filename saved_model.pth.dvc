@@ -1,0 +1,4 @@
+outs:
+- md5: 4d0cc87bfd67b995fb3c621aa24d6372
+  size: 268460151
+  path: saved_model.pth
