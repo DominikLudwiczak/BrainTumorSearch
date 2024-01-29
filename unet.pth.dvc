@@ -1,0 +1,4 @@
+outs:
+- md5: 4afc1e67f6072b9ba15f18c33e34e57f
+  size: 31119004
+  path: unet.pth
