@@ -1,0 +1,8 @@
+used libraries:
+-os
+-opencv
+-pytorch
+-matplotlib
+-numpy
+-tqdm
+dvc should be installed
